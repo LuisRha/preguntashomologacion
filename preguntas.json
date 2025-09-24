@@ -1,0 +1,15 @@
+[
+    {
+        "question": "¿Qué es la redundancia de datos en bases de datos distribuidas?",
+        "correctAnswer": "La replicación de datos en múltiples ubicaciones para mejorar la disponibilidad y confiabilidad."
+    },
+
+    {
+        "question": "¿Qué es la carga equilibrada en bases de datos distribuidas?",
+        "correctAnswer": "La capacidad de distribuir la carga de trabajo de manera equitativa entre los nodos."
+    },
+ {
+        "question": "¿Qué es la redundancia de datos en bases de datos distribuidas?",
+        "correctAnswer": "La replicación de datos en múltiples ubicaciones para mejorar la disponibilidad y confiabilidad."
+    }
+]
